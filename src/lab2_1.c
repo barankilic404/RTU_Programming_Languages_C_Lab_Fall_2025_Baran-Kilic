@@ -1,3 +1,4 @@
+// Baran Kilic 231ADB113
 #include <stdio.h>
 
 int sum_to_n(int n) {
@@ -26,3 +27,4 @@ int main(void) {
 
     return 0;
 }
+
